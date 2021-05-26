@@ -1,2 +1,3 @@
 # choice
-Choice
+
+git clone https://github.com/thelinuxchoice/choicebot
